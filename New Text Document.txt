@@ -1,0 +1,30 @@
+Title
+Display.component.html
+Display.component.ts
+PipeFilter.ts
+App.component.html
+App.component.ts
+App.module.ts
+Index.html
+Display.component.html => Attribute Names
+Employee.json => Atribute Values
+PipeFilter => Attribute Names
+
+Files to be made:
+Display.component.css
+
+
+
+
+
+
+#############################
+PROCEDURE
+#############################
+
+Update .json File
+change interface name and .ts name accordingly
+change service.ts name and attributes accordingly
+change pipe filter accordingly
+change display.component.ts import statements and commands
+change display.component.html accordingly
