@@ -1,0 +1,14 @@
+Title
+Display.component.html
+Display.component.ts
+PipeFilter.ts
+App.component.html
+App.component.ts
+App.module.ts
+Index.html
+Display.component.html => Attribute Names
+Employee.json => Atribute Values
+PipeFilter => Attribute Names
+
+Files to be made:
+Display.component.css
